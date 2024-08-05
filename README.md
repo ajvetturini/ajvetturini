@@ -6,6 +6,7 @@ Dept. of Mechanical Engineering
 
 Carnegie Mellon University
 
+You can read more at: https://ajvetturini.github.io/
 Reach me at: avetturi[at]andrew[dot]cmu[dot]edu
 
 <!---
