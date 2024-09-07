@@ -1,6 +1,6 @@
 ## A.J. Vetturini
 
-PhD Student
+Ph.D. Candidate
 
 Dept. of Mechanical Engineering
 
